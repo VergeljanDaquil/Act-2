@@ -1,0 +1,91 @@
+<html lang="en">
+<head>
+    <meta charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="viewport" content="width-device-width, initial-scale=1.0">
+    <title>Bootstrap Template Resume</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+</head>
+<body class="bg-warning">
+    <div class="container p-5">
+        <div class="row">
+            <div class="col-lg-4 bg-white text-black text-center py-2">
+                <div class="header-left">
+                    <img src="C:\Users\DELL\Desktop\daquil\daquil.jpg" alt="" height="200" width="150" class="img-thumbnail rounded-circle mb-2">
+                    <h1 class="display-5">Verjel Jan Daquil</h1>
+                    <h4 class="lead text-uppercase text-black-70 mb-2">WEB DEVELOPER</h4>
+                </div>
+
+                <div class="contactInfo">
+                    <h5 class="text-uppercase bg-white text-dark py-2 rounded-pill">About Me</h5>
+                    <p>  Hi I Am Vergel Jan Daquil 23 years old of municipality of Libungan.</p>
+                  </div>
+                <div>
+                    <h5 class="text-uppercase bg-white text-dark py-2 rounded-pill">Contact</h5>
+
+                    <ul class="list-unstyled text-black-70 m1-5 py-2 text-left">
+                        <li class="list-item">
+                            <i class="fas fa-mobile-alt mx-4"></i>
+                            +69564704940
+                        </li>
+                        <li class="list-item">
+                            <i class="fas fa-envelope-open-text mx-4"></i>
+                            vjdaquil@gmail.com
+                        </li>
+                        <li class="list-item">
+                            <i class="fas fa-blog mx-4"></i>
+                            www.sample.com
+                        </li>
+                        <li class="list-item">
+                            <i class="fas fa-map-marker-alt mx-4"></i>
+                            Libungan, North Cotabato
+                </li>
+                        </li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h5 class="text-uppercase bg-white text-dark py-2 rounded-pill">Skills</h5>
+                    <ul class="list text-black-70 n1-5 py-2 text-left text-capitalize">
+                        <li class="list-item">swimming </li>
+                        <li class="list-item">playing basketball</li>
+                        <li class="list-item">singging</li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h5 class="text-uppercase bg-white text-dark py-2 rounded-pill">Education</h5>
+                    <ul class="list text-black-70 n1-5 py-2 text-left text-capitalize">
+                        <li class="list-item">University of Southern Mindanao</li>
+                        <li class="list-item">Kabacan, North Cotabato</li>
+                    </ul>
+                </div>
+
+
+            </div>
+            <div class="col-lg-8 bg-white text-dark py-5 px-5">
+                <div class="header-right">
+                </div>
+
+                <div>
+                    <h4 class="text-uppercase">Experience</h4>
+                    <hr>
+
+                    <ul class="list">
+                        <li class="list-item">
+                            <h5 class="display-6 text-uppercase">Google</h5>
+                            <p> “Experience is the name everyone gives to their mistakes.”</p>
+                        </li>
+                        <li class="list-item">
+                            <h5 class="display-6 text-uppercase">Developer</h5>
+                            <p> “ In order to be irreplaceable, one must always be different”</p>
+                        </li>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
